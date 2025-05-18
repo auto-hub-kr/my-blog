@@ -1,0 +1,32 @@
+baseURL = 'https://yourdomain.com/'
+languageCode = 'ko-kr'
+title = '이화숲 음악학원 블로그'
+theme = 'PaperMod'
+
+[params]
+  description = "이화숲 음악학원의 공식 블로그입니다"
+  author = "이화숲 음악학원"
+  
+  # SEO 최적화 설정
+  enableRobotsTXT = true
+  canonifyURLs = true
+  
+  # 홈페이지 설정
+  mainSections = ["posts"]
+  
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "홈"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "블로그"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    identifier = "tags"
+    name = "태그"
+    url = "/tags/"
+    weight = 30

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 이화숲 음악학원 블로그</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 이화숲 음악학원 블로그</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>첫 번째 블로그 글</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;안녕하세요! 이화숲 음악학원 블로그의 첫 번째 게시물입니다.&lt;/p&gt;
+&lt;p&gt;여기에 마크다운 형식으로 내용을 작성할 수 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;소제목&#34;&gt;소제목&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;목록 항목 1&lt;/li&gt;
+&lt;li&gt;목록 항목 2&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
